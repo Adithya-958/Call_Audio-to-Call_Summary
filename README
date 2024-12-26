@@ -1,0 +1,6 @@
+Title: Call_Audio to Call_Summary Converter
+<br> Author: Adithya Rudrangi
+Discreption: 
+  The project focuses on converting call audio files, specifically .WAV files, into concise text summaries. 
+  The process involves extracting key information and important conversations from the audio and compiling them into a structured text file. 
+  This summary can then be used to quick reference, analysis, and documentation purposes.
