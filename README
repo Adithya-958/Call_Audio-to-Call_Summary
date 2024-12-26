@@ -4,3 +4,12 @@ Discreption:
   The project focuses on converting call audio files, specifically .WAV files, into concise text summaries. 
   The process involves extracting key information and important conversations from the audio and compiling them into a structured text file. 
   This summary can then be used to quick reference, analysis, and documentation purposes.
+Applications:
+  Medical Care: Documenting medication instructions and treatment plans provided by doctors, ensuring accurate patient records.
+  Customer Support: Summarizing customer service calls to track issues and resolutions, improving customer experience and service quality.
+  Legal Sector: Transcribing and summarizing legal consultations and depositions for easy reference and documentation.
+  Sales and Marketing: Recording and summarizing sales calls to capture key customer insights and follow-up actions.
+  Education: Summarizing academic discussions and meetings to help in capturing important points and action items.
+  Human Resources: Documenting HR interviews and performance reviews for accurate and streamlined record-keeping.
+  Financial Services: Summarizing client consultations and financial advice sessions for better client management and regulatory compliance.
+  This project aims to enhance the efficiency of handling call data, making it a valuable tool for businesses and organizations across various sectors.
